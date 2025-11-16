@@ -1,5 +1,4 @@
 version = 1
 revision = 2
 requires-python = ">=3.13"
-a/764fda0cd4951998dd0cb375b8c9d1f5ced2b2d785d17eeb1f03afa598bc/openai_agents-0.2.6-py3-none-any.whl", hash = "sha256:bc4395f57d556af819fcea6b6a15932d45e549b657508524121707c3448cfbcb", size = 166125, upload-time = "2025-08-11T18:52:15.276Z" },
-]
+
